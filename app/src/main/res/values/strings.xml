@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuzmanProjectOne</string>
+    <string name="title_activity_access_control_screen">AccessControlScreen</string>
+</resources>
